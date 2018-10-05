@@ -1,0 +1,4 @@
+git config --global user.name "Andre Pando"
+git config --global user.email johndoe@example.com
+https://www.atlassian.com/git/tutorials/syncing
+https://www.youtube.com/watch?v=H5GJfcp3p4Q&index=13&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-
